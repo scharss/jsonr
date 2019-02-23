@@ -1,1 +1,1 @@
-# how retrieve data form url json file
+# how retrieve data from url json file
