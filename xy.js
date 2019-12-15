@@ -1,6 +1,7 @@
 var x = [];
 var y = [];
 
+//https://spreadsheets.google.com/feeds/list/spreadsheetID/worksheetID/public/values?alt=json
 fetch('https://spreadsheets.google.com/feeds/list/1tpFSN7Bk82cu3T2_fNG0_xXlKVP5wrcKvMpnFH1DaPI/1/public/values?alt=json')
     .then(function(response) {
         return response.json();
