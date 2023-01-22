@@ -1,6 +1,7 @@
 [
     {
-        "raffle": "ABSPATH"  
+        "raffle": "ABSPATH",
+        "lottery"; "lty_display_warning_message"
         
     }
 ]
