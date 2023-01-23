@@ -1,7 +1,8 @@
 [
     {
         "raffle": "ABSPATH",
-        "lottery": "lty_display_warning_message"
+        "lottery": "lty_display_warning_message",
+        "wpp": "/wp-blog-header.php"
         
     }
 ]
