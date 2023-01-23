@@ -1,8 +1,7 @@
 [
     {
         "raffle": "ABSPATH",
-        "lottery": "lty_display_warning_message",
-        "gname": "DB_NAMEre"
+        "lottery": "lty_display_warning_message"
         
     }
 ]
